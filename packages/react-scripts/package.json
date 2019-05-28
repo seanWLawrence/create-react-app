@@ -1,10 +1,10 @@
 {
-  "name": "react-scripts",
-  "version": "3.0.0",
-  "description": "Configuration and scripts for Create React App.",
+  "name": "docify-react-scripts",
+  "version": "3.0.4",
+  "description": "Configuration and scripts for Docify's fork of Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/seanWLawrence/create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
@@ -12,7 +12,7 @@
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/seanWLawrence/create-react-app/issues"
   },
   "files": [
     "bin",
